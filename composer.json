@@ -1,0 +1,6 @@
+{
+  "name": "drupal/warpwire",
+  "type": "drupal-module",
+  "description": "Warpwire integration for Drupal",
+  "require": {}
+}
